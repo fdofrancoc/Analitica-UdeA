@@ -1,4 +1,4 @@
-# Analitica-UdeA
+# Seminario Especializacion Analitica y Ciencia Datos UdeA
 Este repositorio se encuentra información relacionada con el curso Seminario de la corte V de la especialización en Analitica y Ciencia de datos.
 
 Se encuentran los siguientes archivos:
